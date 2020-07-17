@@ -1,3 +1,4 @@
 # TO DO LIST
 
-Here I will write my todo list.
+- This todo list is not complete yet
+- New item
