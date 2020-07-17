@@ -4,3 +4,4 @@
 - New item
 - Third item
 - Fourth item
+- Merge my pull request
